@@ -1,0 +1,6 @@
+{
+    "margin_ratio":0.0625,
+    "threshold":128.0,
+    "model_dir":"model_weights",
+    "num_parallel_predictions":1
+}
